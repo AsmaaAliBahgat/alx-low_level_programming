@@ -5,7 +5,7 @@
 /**
  *main - Entry point
  *Description: 'check foor number if it is positive or negative'
- *Return : Always 0 (Success)
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
