@@ -18,4 +18,5 @@ str[i] = str[i] - 32;
 }
 }
 
-return 
+return (str);
+} 
