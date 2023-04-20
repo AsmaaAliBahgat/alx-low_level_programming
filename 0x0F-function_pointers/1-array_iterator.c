@@ -1,6 +1,3 @@
-20 lines (17 sloc)  383 Bytes
- 
-
 #include "function_pointers.h"
 
 /**
